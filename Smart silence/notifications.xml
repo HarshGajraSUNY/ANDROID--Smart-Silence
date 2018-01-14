@@ -1,0 +1,11 @@
+<application>
+  <component name="NotificationConfiguration" systemNotifications="false">
+    <notification groupId="External Executable Critical Failures" />
+    <notification groupId="IDE Usage Statistics" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" />
+    <notification groupId="Plugin Errors" />
+    <notification groupId="Plugins Suggestion" />
+    <notification groupId="System Health" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
+</application>
