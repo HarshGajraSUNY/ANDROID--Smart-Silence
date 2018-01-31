@@ -5,7 +5,7 @@ Quick summary: Smart silence is a app to set the phone in silent mode based on n
 
 Version : Smart Silence 0.1
 
-Status : Reading of values -> GPS Sensor : Done. -> Accelerometer : Done. -> Microphone : In Progress.
+Status : Reading of values -> GPS Sensor : Done. -> Accelerometer : Done. -> Microphone : Done.
 
 How do I get set up?
 Summary of set up
